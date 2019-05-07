@@ -1,6 +1,3 @@
-## AWS Iot Core Python Node Sigv4 Https
-
-It provides guidance on how to publish messages to AWS IoT Core using Https, with the help of a Python sample and NodeJs sample.
 
 # 1.Objective
 The objective of this repository is to provide guidance on how to publish messages to AWS IoT Core using Https protocol and AWS SigV4 autentication. It has two reference implementations - one in Python and other in NodeJs.
